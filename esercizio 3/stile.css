@@ -1,0 +1,14 @@
+.sfondo {
+    background-color: #f382a9;
+}
+img {
+    height: 35px;
+}
+h1 {
+    font-size: 32px;
+}
+.testo {
+    font-size: 12pt;
+    line-height: 1.5;
+    text-align: justify;
+}
