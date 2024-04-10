@@ -45,3 +45,13 @@ body {
 .wrapper img {
     width:150px;
 }
+
+.area {
+    grid-area: "myArea";
+    display: grid;
+    grid-template-areas: 'myArea myArea . . .';
+    grid-gap: 10px;
+}
+.area img {
+    width: 150px;
+}
